@@ -1,0 +1,1 @@
+classes.personagens_rpg import *

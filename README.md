@@ -1,6 +1,6 @@
 # Python POO
 
-Repositório de estudos em Python orientado a objetos.
+Repositório de estudos em Python orientado a objetos. (work in progress)
 
 ## Estrutura
 

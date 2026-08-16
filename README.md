@@ -38,7 +38,7 @@ A execução depende do arquivo específico que você quiser testar. Em geral:
 
 ```bash
 python desafios/desafio024/__main__.py
-
+```
 
 ## Tecnologias
 

@@ -31,6 +31,10 @@ Repositório de estudos em Python orientado a objetos: exercícios, desafios e e
 | 031 | Classe `Retangulo` com validação de medidas |
 | 032 | Conta bancária com saldo, saques e depósitos |
 | 033 | Hierarquia `Pessoa` → `Aluno`, com cursos disponíveis |
+| 034 | Funcionários (`Gerente`, `Dev`, `Designer`) com cálculo de bônus e regra de reajuste salarial |
+| 035 | Arquivos (`PDF`, `DOC`) com classe abstrata e abertura simulada por aplicativo |
+| 036 | Formas de pagamento (`Boleto`, `Pix`, `Credito`) com classe abstrata |
+| 037 | Mensagens (`Aviso`, `Alerta`, `Erro`) exibidas como painéis coloridos via Rich |
 
 ## Como executar
 
@@ -51,4 +55,4 @@ python desafios/desafio024/__main__.py
 - Herança e classes abstratas (`ABC`, `@abstractmethod`)
 - Polimorfismo
 - Tratamento de exceções personalizadas
-- Formatação de saída com Rich
+- Formatação de saída com Rich<>
